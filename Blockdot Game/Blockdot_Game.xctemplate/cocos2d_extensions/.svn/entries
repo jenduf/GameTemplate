@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://jenduf@github.com/jenduf/GameTemplate.git/trunk/Blockdot%20Game/Blockdot_Game.xctemplate/cocos2d_extensions
+https://jenduf@github.com/jenduf/GameTemplate.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b18ddd7c-593e-8f1c-e570-ce57b7db7bff
+
+CCVideoPlayerImpliOS.m
+file
+
+
+
+add
+
+CCVideoPlayerImplMac.h
+file
+
+
+
+add
+
+CCSlider.m
+file
+
+
+
+add
+
+CCMenuAdvanced.h
+file
+
+
+
+add
+
+SingleFileDownloader.h
+file
+
+
+
+add
+
+CCVideoPlayerImplMac.m
+file
+
+
+
+add
+
+videoOverlayView.h
+file
+
+
+
+add
+
+CCMenuAdvanced.m
+file
+
+
+
+add
+
+SingleFileDownloader.m
+file
+
+
+
+add
+
+videoOverlayView.m
+file
+
+
+
+add
+
+CCBigImage.h
+file
+
+
+
+add
+
+CCBigImage.m
+file
+
+
+
+add
+
+CCTextureCache+CCBigImageExtensions.h
+file
+
+
+
+add
+
+LFCGzipUtility.h
+file
+
+
+
+add
+
+CCTextureCache+CCBigImageExtensions.m
+file
+
+
+
+add
+
+CCLayerPanZoom.h
+file
+
+
+
+add
+
+LFCGzipUtility.m
+file
+
+
+
+add
+
+CCSendMessages.h
+file
+
+
+
+add
+
+CCVideoPlayer.h
+file
+
+
+
+add
+
+cencode.c
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCLayerPanZoom.m
+file
+
+
+
+add
+
+CCSendMessages.m
+file
+
+
+
+add
+
+CCMenuItemSpriteIndependent.h
+file
+
+
+
+add
+
+CCVideoPlayer.m
+file
+
+
+
+add
+
+cencode.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCScrollLayer.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCMenuItemSpriteIndependent.m
+file
+
+
+
+add
+
+CCScrollLayer.m
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CustomVideoView.nib
+dir
+
+
+
+add
+
+TMXGenerator.h
+file
+
+
+
+add
+
+MyMovieView.h
+file
+
+
+
+add
+
+FilesDownloader.h
+file
+
+
+
+add
+
+TMXGenerator.m
+file
+
+
+
+add
+
+MyMovieView.m
+file
+
+
+
+add
+
+FilesDownloader.m
+file
+
+
+
+add
+
+CCVideoPlayerImpliOS.h
+file
+
+
+
+add
+
+CCSlider.h
+file
+
+
+
+add
+
